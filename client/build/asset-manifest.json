@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/OnlineCompiler/static/css/main.5a32ce45.css",
+    "main.js": "/OnlineCompiler/static/js/main.c9e70040.js",
+    "index.html": "/OnlineCompiler/index.html",
+    "main.5a32ce45.css.map": "/OnlineCompiler/static/css/main.5a32ce45.css.map",
+    "main.c9e70040.js.map": "/OnlineCompiler/static/js/main.c9e70040.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a32ce45.css",
+    "static/js/main.c9e70040.js"
+  ]
+}
